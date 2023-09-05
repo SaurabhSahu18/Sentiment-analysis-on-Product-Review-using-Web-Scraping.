@@ -1,0 +1,11 @@
+selenium
+chromedriver-manager
+lxml
+html5lib
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+plotly
