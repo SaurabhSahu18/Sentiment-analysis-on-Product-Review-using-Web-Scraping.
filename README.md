@@ -1,6 +1,2 @@
-# Project ka name
+# Sentiment-analysis-on-Product-Review-using-Web-Scraping
 
-1. install dependencies
-```shell
-pip install -r requirements.txt
-```
